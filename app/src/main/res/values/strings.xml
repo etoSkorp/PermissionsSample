@@ -1,0 +1,19 @@
+<resources>
+    <string name="show_camera">Показать превью камеры</string>
+    <string name="camera_unavailable"><b>Камера не может быть открыта.</b>\nЭто случается, когда камера недоступна (например, уже используется) или если система отказала в доступе(например, когда доступ к камере был отклонен).</string>
+    <string name="intro">В этом примере показана базовая реализация запроса разрешений во время выполнения.\nНажмите кнопку ниже, чтобы запросить разрешение камеры и открыть полноэкранный предварительный просмотр камеры..</string>
+    <string name="open_camera_preview">Показать превью камеры</string>
+    <string name="app_name">RuntimePermissionsBasic</string>
+    <string name="intro_message"><![CDATA[
+В этом примере показана базовая реализация запроса разрешений во время выполнения. Нажмите кнопку, чтобы
+запросить разрешение камеры и открыть полноэкранный предварительный просмотр камеры.
+Примечание. Образец «RuntimePermissions» предоставляет более полный обзор разрешения среды выполнения.
+доступные функции.]]>
+    </string>
+    <string name="camera_access_required">Требуется доступ к камере для отображения предварительного просмотра камеры.</string>
+    <string name="ok">OK</string>
+    <string name="camera_permission_not_available">Разрешение недоступно. Запрос разрешения камеры.</string>
+    <string name="camera_permission_available">Разрешение камеры доступно. Запуск предпросмотра.</string>
+    <string name="camera_permission_granted">Разрешение на камеру получено. Запуск предпросмотра.</string>
+    <string name="camera_permission_denied">Запрос на разрешение камеры был отклонен.</string>
+</resources>
